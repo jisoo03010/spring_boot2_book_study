@@ -1,2 +1,3 @@
 # spring_boot2_book_study
 스프링 부트 3 백엔드 개발자 되기 (자바편)
+![image](https://github.com/jisoo03010/spring_boot2_book_study/assets/73218962/11100209-f67c-4ee7-ada9-ec67881626b1)
